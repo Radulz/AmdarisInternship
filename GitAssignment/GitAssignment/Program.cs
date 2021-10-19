@@ -12,7 +12,7 @@ namespace GitAssignment
         {
             Console.WriteLine("First line");
             Console.WriteLine("Preparations for text conflict.");
-            
+            Console.WriteLine("Text conflict");
         }
     }
 }
