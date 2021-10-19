@@ -8,5 +8,17 @@ namespace GitAssignment
 {
     class SomeClass
     {
+        private int number;
+        private double fractional;
+        public SomeClass(int nr, double fr)
+        {
+            this.number = nr;
+            this.fractional = fr;
+        }
+
+        public double sum()
+        {
+            return this.number + this.fractional;
+        }
     }
 }
