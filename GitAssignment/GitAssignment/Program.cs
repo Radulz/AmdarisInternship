@@ -10,6 +10,7 @@ namespace GitAssignment
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("First line");
         }
     }
 }
