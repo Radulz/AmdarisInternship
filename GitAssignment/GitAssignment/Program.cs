@@ -11,6 +11,7 @@ namespace GitAssignment
         static void Main(string[] args)
         {
             Console.WriteLine("First line");
+            Console.WriteLine("Preparations for text conflict.");
         }
     }
 }
